@@ -52,7 +52,5 @@ When you enter your **username and password**  for the first time, the data is s
 
 Run the program, type in username and the following prompt will be shown and type in **no** when it appers to reset your username and password.
 
-<img src = "fix.png" height="200" width="600">  
-
-## 
+<img src = "https://i.imgur.com/Cq8JzPg.png" height="200" width="600">  
 

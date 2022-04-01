@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup_args = dict(
     name="igpd-linux", # Replace with your own username
-    version="0.0.1",
+    version="0.1.3",
     author='Ashwin.B',
     license='MIT',
     author_email = 'ahnashwin1305@gmail.com',
@@ -13,7 +13,7 @@ setup_args = dict(
     description="Download almost everything from instagram, from public accounts and from your followers",
     long_description = long_description,
     long_description_content_type= "text/markdown",
-    py_modules = ["features","igpd-l"],
+    py_modules = ["igpd_l","features"],
     package_dir = {'': 'src'},
 
     classifiers=[
