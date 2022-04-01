@@ -28,7 +28,7 @@ pip install igpd-linux
 Open in terminal and type the following command
 
 ```python
-python3 -m igpd-l
+python3 -m igpd_l
 ```
 
 ## Things to Remember 

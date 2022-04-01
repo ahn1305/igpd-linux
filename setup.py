@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup_args = dict(
     name="igpd-linux", # Replace with your own username
-    version="0.1.3",
+    version="0.1.6",
     author='Ashwin.B',
     license='MIT',
     author_email = 'ahnashwin1305@gmail.com',
